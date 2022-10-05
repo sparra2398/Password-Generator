@@ -1,12 +1,12 @@
 # Password Generator
 
-##Struggle no more with coming up with secure passwords on your own! 
+## Struggle no more with coming up with secure passwords on your own! 
 
 Generator allows you to choose from:
-*Lower case letters
-*Upper case letters
-*Numbers
-*and Special characters
+* Lower case letters
+* Upper case letters
+* Numbers
+* and Special characters
 
 Choose all or a few and get a new, secure randomly generated password each time!
 
